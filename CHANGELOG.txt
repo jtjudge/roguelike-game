@@ -1,0 +1,15 @@
+==== CHANGELOG for Assignment 1.10 ====
+============ Jeffrey Judge ============
+
+Mon Nov 14  - Major code cleanup
+    	    - All structs are now classes
+	    - No more C/C++ interfacing
+
+Fri Nov 18  - Implemented sneaking
+
+Thu Nov 24  - Implemented bombs
+
+Tue Nov 29  - Implemented ranged gameplay
+
+Wed Nov 30  - Refined
+    	    - Finished project
